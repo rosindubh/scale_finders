@@ -1,0 +1,29 @@
+IPC Inter Process Communication
+
+The socket() method
+
+syntax is: socket(family, type, protocol)
+
+There are two address family's:
+AF_UNIX or AF_INET
+
+type:
+SOCK_STREAM gives connection-oriented
+SOCK_DGRAM gives connectionless
+
+protocol:
+this is 0 by default and is good for all socket types other than raw.
+
+so an example of a TCP socket would be:
+TCP_Sock=socket(AF_INET, SOCK_STREAM)
+
+you can create a UDP socket as follows:
+TCP_Sock=socket(AF_INET, SOCK_DGRAM)
+
+CREATING A TCP SERVER
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+C D E F G A B C 
+C D D# F G A A# C 
+C C# D# F G G# A# C 
+C D E F# G A B C 
+C D E F G A A# C 
+C D D# F G G# A# C 
+C C# D# F F# G# A# C 
+
+C# D# F F# G# A# C C# 
+C# D# E F# G# A# B C# 
+C# D E F# G# A B C# 
+C# D# F G G# A# C C# 
+C# D# F F# G# A# B C# 
+C# D# E F# G# A B C# 
+C# D E F# G A B C# 
+
+D E F# G A B C# D 
+D E F G A B C D 
+D D# F G A A# C D 
+D E F# G# A B C# D 
+D E F# G A B C D 
+D E F G A A# C D 
+D D# F G G# A# C D 
+
+D# F G G# A# C D D# 
+D# F F# G# A# C C# D# 
+D# E F# G# A# B C# D# 
+D# F G A A# C D D# 
+D# F G G# A# C C# D# 
+D# F F# G# A# B C# D# 
+D# E F# G# A B C# D# 
+
+E F# G# A B C# D# E 
+E F# G A B C# D E 
+E F G A B C D E 
+E F# G# A# B C# D# E 
+E F# G# A B C# D E 
+E F# G A B C D E 
+E F G A A# C D E 
+
+F G A A# C D E F 
+F G G# A# C D D# F 
+F F# G# A# C C# D# F 
+F G A B C D E F 
+F G A A# C D D# F 
+F G G# A# C C# D# F 
+F F# G# A# B C# D# F 
+
+F# G# A# B C# D# F F# 
+F# G# A B C# D# E F# 
+F# G A B C# D E F# 
+F# G# A# C C# D# F F# 
+F# G# A# B C# D# E F# 
+F# G# A B C# D E F# 
+F# G A B C D E F# 
+
+G A B C D E F# G 
+G A A# C D E F G 
+G G# A# C D D# F G 
+G A B C# D E F# G 
+G A B C D E F G 
+G A A# C D D# F G 
+G G# A# C C# D# F G 
+
+G# A# C C# D# F G G# 
+G# A# B C# D# F F# G# 
+G# A B C# D# E F# G# 
+G# A# C D D# F G G# 
+G# A# C C# D# F F# G# 
+G# A# B C# D# E F# G# 
+G# A B C# D E F# G# 
+
+A B C# D E F# G# A 
+A B C D E F# G A 
+A A# C D E F G A 
+A B C# D# E F# G# A 
+A B C# D E F# G A 
+A B C D E F G A 
+A A# C D D# F G A 
+
+A# C D D# F G A A# 
+A# C C# D# F G G# A# 
+A# B C# D# F F# G# A# 
+A# C D E F G A A# 
+A# C D D# F G G# A# 
+A# C C# D# F F# G# A# 
+A# B C# D# E F# G# A# 
+
+B C# D# E F# G# A# B 
+B C# D E F# G# A B 
+B C D E F# G A B 
+B C# D# F F# G# A# B 
+B C# D# E F# G# A B 
+B C# D E F# G A B 
+B C D E F G A B 
+
+
+
+ionian     = T T S T T T S
+dorian     = T S T T T S T
+phrygian   = S T T T S T T
+lydian     = T T T S T T S
+mixolydian = T T S T T S T
+aeolian    = T S T T S T T
+locrian    = S T T S T T T
