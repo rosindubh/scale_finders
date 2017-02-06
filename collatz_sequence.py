@@ -10,8 +10,6 @@
 # repeat the process indefinatly. The conjecture is that no matter what
 # number you start with the final answer is always 1
 
-
-
 import sys
 
 # set global variables
@@ -21,7 +19,7 @@ number = 0
 
 try:
     number = int(input('enter an integer: '))
-    saved_number = number 
+    saved_number = number
 except:
     print('that\'s not an integer an integer is a whole number.')
     sys.exit()
@@ -29,17 +27,17 @@ except:
 # main
 while number != 1:
     if number % 2 == 0:
-        number=number/2
+        number = number/2
         print('number of steps  = ', steps, 'number  = ', number)
-        steps+=1
+        steps + =1
     else:
         number = number * 3 + 1
         print('number of steps  = ', steps, 'number  = ', number)
-        steps+=1
+        steps + =1
 
 print('\nthe integer you chose was', saved_number,
       '\nnumber or steps taken was', steps - 1)
-    
+
 # bit to open a web page on the collatz sequence on wikipedia
 
 while True:
@@ -55,4 +53,3 @@ enter y or n\n''')
     elif web_open == 'n':
         import sys
         sys.exit()
-
