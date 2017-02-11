@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# program to show a description of the most common ports
+# phil welsby - 11 february 2017
 def wiper():
     print('\n' * 100)
 wiper()
