@@ -4,24 +4,27 @@
 
 # income
 income = float(input('Enter wages: £'))
-child_benifit = 88
-tax_credits = 300
+child_benifit = 82
+tax_credits = 510
+working_tax_credits = 158
 kali = 200
-total_income = income + child_benifit+tax_credits+kali
+total_income = income + child_benifit+tax_credits+kali+working_tax_credits
 
 # outgoings
-car_debt = 150
-rent = 100
-insurance = 150
-car_tax = 15
-other_debt = 50
-gym = 17.99
-union = 10
-bank_charges = 36
-child_minding = 100
-savings = 25
-AA = 10
-total_out = car_debt+rent+insurance+car_tax+other_debt+gym+union+bank_charges+child_minding+savings+AA
+phone = 40
+union = 12
+car_tax = 16
+car_insurance = 160
+rent = 210
+gas = 30
+water = 30
+electric = 40
+council_tax = 60
+nursery = 300
+tv_licence = 30
+other_debts =50
+AA = 15
+total_out = phone+union+car_tax+car_insurance+rent+gas+water+electric+council_tax+nursery+tv_licence+other_debts+AA
 
 # results
 print('Total income:        ', total_income)
