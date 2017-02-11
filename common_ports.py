@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # program to show a description of the most common ports
+# requires the common_port_numbers.txt as data
 # phil welsby - 11 february 2017
 def wiper():
     print('\n' * 100)
