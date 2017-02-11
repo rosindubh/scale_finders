@@ -10,3 +10,4 @@ for each_line in file:
         if port_number == number:
             print()
             print('Common use for port', port_number, 'is...', description)
+file.close()
