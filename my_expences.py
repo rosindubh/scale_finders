@@ -8,7 +8,7 @@ print('\n'*100)
 # monthly costs excluding food
 gas=float(11.26)
 electricity=float(128.00)
-water=float(32.55)
+water=float(33.48)
 council_tax=float(104.00)
 dentist=float(37.70)
 tv_licence=float(12.12)
