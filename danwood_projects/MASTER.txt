@@ -1,0 +1,121 @@
+Date: (18, 2, 2017) Time: (0, 9, 24) 
+Machine type:  
+Fault:  
+Cause:  
+Action:  
+Parts:  
+
+Date: (18, 2, 2017) Time: (0, 13, 10) 
+Machine type:  
+Fault:  
+Cause:  
+Action:  
+Parts:  
+
+Date: (18, 2, 2017) Time: (0, 15, 44) 
+Machine type: 12 
+Fault: 123 
+Cause: 1234 
+Action: 12345 
+Parts: 123234 
+
+Date: (18, 2, 2017) Time: (0, 17, 27) 
+Machine type:  
+Fault:  
+Cause:  
+Action:  
+Parts:  
+
+Date: (18, 2, 2017) Time: (0, 18, 8) 
+Machine type: 5 
+Fault: 5 
+Cause: 5 
+Action: 5 
+Parts: 5 
+
+Date: (18, 2, 2017) Time: (0, 21, 5) 
+Machine type: hp 4540 
+Fault: line 
+Cause: drum unit 
+Action: fitted new drum unit 
+Parts: none 
+
+Date: (18, 2, 2017) Time: (0, 22, 33) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 23, 28) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 23, 44) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 24, 35) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 25, 6) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 25, 45) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 26, 8) 
+Machine type: sharp 5141 
+Fault: fuser fault 
+Cause: crappy scottish workmanship 
+Action: lots and lots 
+Parts: loads 
+
+Date: (18, 2, 2017) Time: (0, 40, 51) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Date: (18, 2, 2017) Time: (0, 42, 40) 
+Machine type: 1 
+Fault: 1 
+Cause: 1 
+Action: 1 
+Parts: 1 
+
+Servive Order: 123456 Date: (18, 2, 2017) Time: (0, 44, 48) 
+Machine type: 123456 
+Fault: 123435 
+Cause: 12456 
+Action: 123456 
+Parts: 123456 
+
+Service Order: 999 
+Date: (18, 2, 2017) 
+Time: (0, 46, 45) 
+Machine type: 999 
+Fault: 999 
+Cause: 999 
+Action: 999 
+Parts: 999 
+
