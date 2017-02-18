@@ -60,8 +60,6 @@ def user_input():
     wiper()
     so = input('Service order number:      ')
     machine_type = input("Machine type:              ")
-#    wiper()
-#    print('Machine Type:             ', machine_type)
     fault = input("Fault:                     ")
     cause = input("Cause:                     ")
     action = input("Description of work done:  ")
