@@ -7,7 +7,7 @@ import os, sys
 import pygame, math, sys
 from pygame.locals import *
 screen = pygame.display.set_mode((1024, 768))
-ball = pygame.image.load('ball.bmp')
+ball = pygame.image.load('ball.bmp').convert()
 clock = pygame.time.Clock()
 k_up = k_down = k_left = k_right = 0
 speed = direction = 0
