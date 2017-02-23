@@ -1,3 +1,5 @@
+import pygame
+
 class Ball(pygame.sprite.Sprite):
     """A ball that will move across the screen
     Returns: ball object
