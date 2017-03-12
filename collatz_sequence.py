@@ -29,11 +29,11 @@ while number != 1:
     if number % 2 == 0:
         number = number/2
         print('number of steps  = ', steps, 'number  = ', number)
-        steps + =1
+        steps += 1
     else:
         number = number * 3 + 1
         print('number of steps  = ', steps, 'number  = ', number)
-        steps + =1
+        steps += 1
 
 print('\nthe integer you chose was', saved_number,
       '\nnumber or steps taken was', steps - 1)
